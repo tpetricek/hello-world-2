@@ -1,2 +1,3 @@
-# hello-world-2
-Hello world project
+# Hello world!
+
+This is not a very useful project. 
